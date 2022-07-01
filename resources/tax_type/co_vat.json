@@ -1,0 +1,1 @@
+{"name":"Colombia VAT","generic_label":"vat","display_inclusive":false,"zone":"co_vat","rates":[{"id":"co_vat_standard","name":"Standard","default":true,"amounts":[{"id":"co_vat_standard_2022","amount":0.19,"start_date":"2022-01-01"}]}]}

@@ -1,0 +1,20 @@
+{
+  "name": "Mexico VAT",
+  "generic_label": "vat",
+  "display_inclusive": false,
+  "zone": "mx_vat",
+  "rates": [
+    {
+      "id": "mx_vat_standard",
+      "name": "Standard",
+      "default": true,
+      "amounts": [
+        {
+          "id": "mx_vat_standard_2022",
+          "amount": 0.16,
+          "start_date": "2022-01-01"
+        }
+      ]
+    }
+  ]
+}

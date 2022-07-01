@@ -1,0 +1,1 @@
+{"name":"United States - South Dakota VAT","generic_label":"vat","display_inclusive":false,"zone":"us_sd_vat","rates":[{"id":"us_sd_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_sd_vat_standard_2022","amount":0.04,"start_date":"2022-01-01"}]}]}

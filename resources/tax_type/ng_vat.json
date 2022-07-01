@@ -1,0 +1,1 @@
+{"name":"Nigeria VAT","generic_label":"vat","display_inclusive":false,"zone":"ng_vat","rates":[{"id":"ng_vat_standard","name":"Standard","default":true,"amounts":[{"id":"ng_vat_standard_2022","amount":0.075,"start_date":"2022-01-01"}]}]}

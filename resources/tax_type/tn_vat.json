@@ -1,0 +1,1 @@
+{"name":"Tunisia VAT","generic_label":"vat","display_inclusive":false,"zone":"tn_vat","rates":[{"id":"tn_vat_standard","name":"Standard","default":true,"amounts":[{"id":"tn_vat_standard_2022","amount":0.19,"start_date":"2022-01-01"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Ghana VAT","generic_label":"vat","display_inclusive":false,"zone":"gh_vat","rates":[{"id":"gh_vat_standard","name":"Standard","default":true,"amounts":[{"id":"gh_vat_standard_2022","amount":0.125,"start_date":"2022-01-01"}]}]}

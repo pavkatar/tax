@@ -1,0 +1,1 @@
+{"name":"India GST","generic_label":"gst","display_inclusive":false,"zone":"in_gst","rates":[{"id":"in_gst_standard","name":"Standard","default":true,"amounts":[{"id":"in_gst_standard_2022","amount":0.18,"start_date":"2022-01-01"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Vietnam VAT","generic_label":"vat","display_inclusive":false,"zone":"vn_vat","rates":[{"id":"vn_vat_standard","name":"Standard","default":true,"amounts":[{"id":"vn_vat_standard_2022","amount":0.1,"start_date":"2022-01-01"}]}]}

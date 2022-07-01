@@ -1,0 +1,1 @@
+{"name":"Venezuela VAT","generic_label":"vat","display_inclusive":false,"zone":"ve_vat","rates":[{"id":"ve_vat_standard","name":"Standard","default":true,"amounts":[{"id":"ve_vat_standard_2022","amount":0.16,"start_date":"2022-01-01"}]}]}

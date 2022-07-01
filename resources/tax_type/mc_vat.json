@@ -1,0 +1,1 @@
+{"name":"Monaco VAT","generic_label":"vat","display_inclusive":false,"zone":"mc_vat","rates":[{"id":"mc_vat_standard","name":"Standard","default":true,"amounts":[{"id":"mc_vat_standard_2022","amount":0.2,"start_date":"2022-01-01"}]}]}

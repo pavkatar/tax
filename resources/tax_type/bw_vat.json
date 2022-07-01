@@ -1,0 +1,1 @@
+{"name":"Botswana VAT","generic_label":"vat","display_inclusive":false,"zone":"bw_vat","rates":[{"id":"bw_vat_standard","name":"Standard","default":true,"amounts":[{"id":"bw_vat_standard_2022","amount":0.14,"start_date":"2022-01-01"}]}]}

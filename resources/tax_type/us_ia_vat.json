@@ -1,0 +1,1 @@
+{"name":"United States - Iowa VAT","generic_label":"vat","display_inclusive":false,"zone":"us_ia_vat","rates":[{"id":"us_ia_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_ia_vat_standard_2022","amount":0.06,"start_date":"2022-01-01"}]}]}

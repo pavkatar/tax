@@ -1,0 +1,1 @@
+{"name":"Myanmar VAT","generic_label":"vat","display_inclusive":false,"zone":"mm_vat","rates":[{"id":"mm_vat_standard","name":"Standard","default":true,"amounts":[{"id":"mm_vat_standard_2022","amount":0.05,"start_date":"2022-01-01"}]}]}

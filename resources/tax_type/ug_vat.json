@@ -1,0 +1,1 @@
+{"name":"Uganda VAT","generic_label":"vat","display_inclusive":false,"zone":"ug_vat","rates":[{"id":"ug_vat_standard","name":"Standard","default":true,"amounts":[{"id":"ug_vat_standard_2022","amount":0.18,"start_date":"2022-01-01"}]}]}

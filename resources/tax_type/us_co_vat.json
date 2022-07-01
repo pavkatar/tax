@@ -1,0 +1,1 @@
+{"name":"United States - Colorado VAT","generic_label":"vat","display_inclusive":false,"zone":"us_co_vat","rates":[{"id":"us_co_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_co_vat_standard_2022","amount":0.029,"start_date":"2022-01-01"}]}]}

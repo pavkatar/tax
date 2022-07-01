@@ -1,0 +1,1 @@
+{"name":"United States - North Carolina VAT","generic_label":"vat","display_inclusive":false,"zone":"us_nc_vat","rates":[{"id":"us_nc_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_nc_vat_standard_2022","amount":0.0575,"start_date":"2022-01-01"}]}]}

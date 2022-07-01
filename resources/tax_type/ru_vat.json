@@ -1,0 +1,1 @@
+{"name":"Russian Federation VAT","generic_label":"vat","display_inclusive":false,"zone":"ru_vat","rates":[{"id":"ru_vat_standard","name":"Standard","default":true,"amounts":[{"id":"ru_vat_standard_2022","amount":0.2,"start_date":"2022-01-01"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Panama VAT","generic_label":"vat","display_inclusive":false,"zone":"pa_vat","rates":[{"id":"pa_vat_standard","name":"Standard","default":true,"amounts":[{"id":"pa_vat_standard_2022","amount":0.07,"start_date":"2022-01-01"}]}]}

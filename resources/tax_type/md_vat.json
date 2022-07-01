@@ -1,0 +1,1 @@
+{"name":"Moldova VAT","generic_label":"vat","display_inclusive":false,"zone":"md_vat","rates":[{"id":"md_vat_standard","name":"Standard","default":true,"amounts":[{"id":"md_vat_standard_2022","amount":0.2,"start_date":"2022-01-01"}]}]}

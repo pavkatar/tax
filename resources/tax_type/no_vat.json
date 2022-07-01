@@ -1,0 +1,1 @@
+{"name":"Norway VAT","generic_label":"vat","display_inclusive":false,"zone":"no_vat","rates":[{"id":"no_vat_standard","name":"Standard","default":true,"amounts":[{"id":"no_vat_standard_2022","amount":0.25,"start_date":"2022-01-01"}]}]}

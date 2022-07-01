@@ -1,0 +1,1 @@
+{"name":"Papua New Guinea VAT","generic_label":"vat","display_inclusive":false,"zone":"pg_vat","rates":[{"id":"pg_vat_standard","name":"Standard","default":true,"amounts":[{"id":"pg_vat_standard_2022","amount":0.1,"start_date":"2022-01-01"}]}]}

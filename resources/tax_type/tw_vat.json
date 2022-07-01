@@ -1,0 +1,1 @@
+{"name":"Taiwan VAT","generic_label":"vat","display_inclusive":false,"zone":"tw_vat","rates":[{"id":"tw_vat_standard","name":"Standard","default":true,"amounts":[{"id":"tw_vat_standard_2022","amount":0.05,"start_date":"2022-01-01"}]}]}

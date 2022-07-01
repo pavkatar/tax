@@ -1,0 +1,1 @@
+{"name":"United States - Rhode Island VAT","generic_label":"vat","display_inclusive":false,"zone":"us_ri_vat","rates":[{"id":"us_ri_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_ri_vat_standard_2022","amount":0.07,"start_date":"2022-01-01"}]}]}

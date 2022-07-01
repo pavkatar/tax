@@ -1,0 +1,1 @@
+{"name":"Thailand VAT","generic_label":"vat","display_inclusive":false,"zone":"th_vat","rates":[{"id":"th_vat_standard","name":"Standard","default":true,"amounts":[{"id":"th_vat_standard_2022","amount":0.07,"start_date":"2022-01-01"}]}]}

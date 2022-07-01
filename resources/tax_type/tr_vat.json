@@ -1,0 +1,1 @@
+{"name":"Turkey VAT","generic_label":"vat","display_inclusive":false,"zone":"tr_vat","rates":[{"id":"tr_vat_standard","name":"Standard","default":true,"amounts":[{"id":"tr_vat_standard_2022","amount":0.18,"start_date":"2022-01-01"}]}]}

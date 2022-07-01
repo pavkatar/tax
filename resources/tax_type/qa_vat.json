@@ -1,0 +1,1 @@
+{"name":"Qatar VAT","generic_label":"vat","display_inclusive":false,"zone":"qa_vat","rates":[{"id":"qa_vat_standard","name":"Standard","default":true,"amounts":[{"id":"qa_vat_standard_2022","amount":0.05,"start_date":"2022-01-01"}]}]}

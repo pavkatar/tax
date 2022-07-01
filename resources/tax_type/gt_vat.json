@@ -1,0 +1,1 @@
+{"name":"Guatemala VAT","generic_label":"vat","display_inclusive":false,"zone":"gt_vat","rates":[{"id":"gt_vat_standard","name":"Standard","default":true,"amounts":[{"id":"gt_vat_standard_2022","amount":0.12,"start_date":"2022-01-01"}]}]}

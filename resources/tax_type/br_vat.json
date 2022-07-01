@@ -1,0 +1,1 @@
+{"name":"Brazil VAT","generic_label":"vat","display_inclusive":false,"zone":"br_vat","rates":[{"id":"br_vat_standard","name":"Standard","default":true,"amounts":[{"id":"br_vat_standard_2022","amount":0.17,"start_date":"2022-01-01"}]}]}

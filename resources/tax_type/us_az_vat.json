@@ -1,0 +1,1 @@
+{"name":"United States - Arizona VAT","generic_label":"vat","display_inclusive":false,"zone":"us_az_vat","rates":[{"id":"us_az_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_az_vat_standard_2022","amount":0.066,"start_date":"2022-01-01"}]}]}

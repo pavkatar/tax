@@ -1,0 +1,1 @@
+{"name":"Argentina VAT","generic_label":"vat","display_inclusive":false,"zone":"ar_vat","rates":[{"id":"ar_vat_standard","name":"Standard","default":true,"amounts":[{"id":"ar_vat_standard_2022","amount":0.21,"start_date":"2022-01-01"}]}]}

@@ -1,0 +1,1 @@
+{"name":"United States - Wisconsin VAT","generic_label":"vat","display_inclusive":false,"zone":"us_wi_vat","rates":[{"id":"us_wi_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_wi_vat_standard_2022","amount":0.05,"start_date":"2022-01-01"}]}]}

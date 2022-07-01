@@ -1,0 +1,13 @@
+{
+  "name": "United States_in (VAT)",
+  "scope": "none",
+  "members": [
+    {
+      "type": "country",
+      "id": "us_in_vat_0",
+      "name": "United States - Indiana",
+      "country_code": "US",
+      "administrative_area": "IN"
+    }
+  ]
+}

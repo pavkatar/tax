@@ -1,0 +1,1 @@
+{"name":"United States - Georgia VAT","generic_label":"vat","display_inclusive":false,"zone":"us_ga_vat","rates":[{"id":"us_ga_vat_standard","name":"Standard","default":true,"amounts":[{"id":"us_ga_vat_standard_2022","amount":0.04,"start_date":"2022-01-01"}]}]}
